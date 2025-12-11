@@ -1,4 +1,4 @@
-# 📈 Modern Stock Viewer 📊
+# 📈 Modern Stock Viewer V1.1 📊
 
 A sleek and modern stock price viewer application built with Python, Tkinter, and Matplotlib. This project provides a user-friendly interface to track stock prices, view historical charts, and get detailed stock information. It fetches real-time data from Yahoo Finance, offering a near real-time view of the market.
 
